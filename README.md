@@ -8,7 +8,7 @@ Stack overflow through authorization request in the system. Code execution is po
 ```root@kali:~ python3 masspwn3r.py list port```
 
 #Demo:
-![](Screencast_12-01-2019_05_27_05 PM.gif)
+![](https://raw.githubusercontent.com/NotEth1calHack3r/ipcam-mass_overflow/master/Screencast_12-01-2019_05_27_05%20PM.gif)
 
 #Shodan result:
 ![alt text](https://raw.githubusercontent.com/NotEth1calHack3r/ipcam-mass_overflow/master/157521038127974614.png)
